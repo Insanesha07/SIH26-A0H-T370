@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-TXXX
 ### Team Details
-#### **Team Name** <<67BLADES>> <br/>
+#### **Team Name** 67BLADES <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
