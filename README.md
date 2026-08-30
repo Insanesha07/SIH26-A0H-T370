@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** SIH26005
+* **Problem Statement Title:** Solar-Powered Smart Mini Cold Storage System for Fresh Vegetables in North Eastern Region (NER)
+* **Theme / Category:** Agriculture, Foodtech& Rural Development
+* **Ministry / Organization:**, Ministry of Development of North Eastern Region (MDoNER)
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** SIH26110
+* **Problem Statement Title:** Low-Cost Lightweight Milk Chilling Can
+* **Theme / Category:** Agriculture, FoodTech & Rural Development
+* **Ministry / Organization:**, Ministry of Fisheries, Animal Husbandry & Dairying
